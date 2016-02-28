@@ -6,7 +6,7 @@ Stochastic Gradient Thermostats with different numerical integrators
 - Simulation 2 provides the estimate with stepsize 0.2 
 - Simulation 3 provides the estimate with stepsize 0.001
 
-
+<img src="/simulation/figures/simulation_results.png" data-canonical-src="/simulation/figures/simulation_results.png" width="400" height="450" />
 
 ## Citation
 Please cite our AAAI paper if it helps your research:
